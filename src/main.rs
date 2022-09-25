@@ -4,6 +4,7 @@
     async_closure,
     auto_traits,
     box_patterns, box_syntax,
+    const_evaluatable_checked,
     const_generics_defaults,
     crate_visibility_modifier,
     default_type_parameter_fallback,
@@ -12,6 +13,7 @@
     fn_traits,
     generator_trait,
     generators,
+    generic_const_exprs,
     if_let_guard,
     impl_trait_in_bindings
     in_band_lifetimes,
